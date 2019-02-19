@@ -1,6 +1,6 @@
 # Ignore files
 .DS_Store
 .ipynb_checkpoints/
-./data/raw/*
-./notebooks/00_sk_cleaning.ipynb
-./sk-recommender/*
+data/raw/*
+notebooks/00_sk_cleaning.ipynb
+sk-recommender/*
